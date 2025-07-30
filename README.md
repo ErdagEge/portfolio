@@ -7,8 +7,6 @@ This is the personal developer portfolio of **me**, built with **Next.js**, **Ta
 - [Next.js 14](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - TypeScript
-- App Router
-- React Server Components
 
 ## 📁 Features
 
