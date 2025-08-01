@@ -23,14 +23,14 @@ export default function ContactPage() {
           <FaGithub className="mr-2" /> GitHub
         </a>
         <a
-          href="https://www.linkedin.com/in/ege-erdag/"
+          href="https://www.linkedin.com/in/egeerdag/"
           target="_blank"
           className="inline-flex items-center text-blue-700 hover:underline"
         >
           <FaLinkedin className="mr-2" /> LinkedIn
         </a>
         <a
-          href="https://open.spotify.com/show/your-podcast-link"
+          href="https://open.spotify.com/show/5IkatgeB5ZBbbAADZC9Tty?si=fd4e98f5a23d495f"
           target="_blank"
           className="inline-flex items-center text-green-600 hover:underline"
         >
