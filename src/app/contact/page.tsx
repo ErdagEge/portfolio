@@ -5,7 +5,7 @@ export default function ContactPage() {
     <section className="space-y-6">
       <h1 className="text-3xl font-bold text-gray-800">Contact</h1>
       <p className="text-gray-700">
-        Let’s connect! Whether you have a question, want to collaborate, or just want to say hi — I’m always happy to chat about tech, games, or ideas.
+        Let’s connect! Whether you have a question, want to collaborate, or just want to say hi; I’m always happy to chat about tech, movies, books, or ideas.
       </p>
 
       <div className="flex flex-col gap-4">
